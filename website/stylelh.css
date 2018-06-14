@@ -1,0 +1,45 @@
+ul li{
+    clear: both;
+    list-style-type: none;
+	margin-left:-1.8em;
+}
+form{
+    width: 40em;
+    height: 22em;
+    border: 1px solid #666;
+    border-radius:10px;
+    box-shadow: .2em .2em .5em #999;
+    background-color: #d0e9f6;
+    padding: 1em;
+    
+}
+label{
+    display: block;
+    float: left;
+    width: 10em;
+    text-align: middle;
+    margin-right: .5em;
+    color: #04699d;
+    
+}
+textarea{
+    display: block;
+    width: 30em;
+    height: 5em;
+    border: 1px solid #666;
+    margin-bottom: 1em;
+    line-height: 1.25;
+    overflow: auto;
+    resize: none;
+}
+input.textinput{
+    width: 30em;
+    height: 2em;
+    border: 1px solid #666;
+	margin-bottom:1em;
+}
+div.Lienhe{
+margin: 100px;
+margin-left: 10px;
+    
+}
